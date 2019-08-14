@@ -3,7 +3,3 @@
 	<p class="lead">Find something cool? Share it with our community. Look at other shares as well</p>
 	<a class="btn btn-primary text-center" href="<?php echo ROOT_PATH;?>shares">Share Now</a>
 </div>
-
-<div>
-   <center><img src="<?php echo ROOT_URL; ?>assets/img/certificate.jpg." style="max-width: 100%;"></center>
-</div>
